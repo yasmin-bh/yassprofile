@@ -1,0 +1,13 @@
+body {
+	background-color:lightgrey;
+	}
+body h1{
+	color:darkblue;
+	font-size:xx-large;
+	text-decoration:underline;
+	font-weight:bold;
+	}
+
+body h4{
+	color:darkgreen;
+	font-style:italic;
